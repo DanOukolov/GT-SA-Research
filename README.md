@@ -1,2 +1,2 @@
 # GT-SA-Research
-International Biotechnology Eesearch 
+International Biotechnology Research 
